@@ -1381,8 +1381,3 @@ except Exception as exc:
         f"Could not create the WAV export: {exc}"
     )
 
-
-st.caption(
-    "DSP educational demo. Always listen to the result because "
-    "aggressive noise reduction or compression can introduce artifacts."
-)
