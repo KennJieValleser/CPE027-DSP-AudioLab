@@ -1,4 +1,4 @@
-# AudioLab DSP
+# AudioLab
 
 A beginner-friendly Streamlit application for audio signal-processing demonstrations.
 
